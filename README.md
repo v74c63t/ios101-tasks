@@ -2,7 +2,7 @@
 
 Submitted by: **Vanessa Tang**
 
-**Tasks** is an app that ... [TODO] 
+**Tasks** is an app that displays a list of tasks that can be marked completed by the user. The user can also edit any existing tasks and create more tasks to add to the list. The tasks are retained even when quitting the app. Users are also provided with a calendar view via a navbar that allows them to view their tasks in that way.
 
 Time spent: **2** hours spent in total
 
@@ -26,13 +26,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<!-- Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) . -->
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- I did not encounter any particular challenges
 
 ## License
 
